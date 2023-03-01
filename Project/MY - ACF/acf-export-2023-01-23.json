@@ -1,0 +1,684 @@
+[
+    {
+        "key": "group_63ce64c847f98",
+        "title": "Home Header Page",
+        "fields": [
+            {
+                "key": "field_63ce64c8eec46",
+                "label": "Home Page Header Text",
+                "name": "home_page_header_text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the header text for the home page",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce65d5bf0f3",
+                "label": "Home Page Header Description",
+                "name": "home_page_header_description",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the header description",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6610466e5",
+                "label": "Home Page Header Image",
+                "name": "home_page_header_image",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "upload ur image",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce682cf5d76",
+                "label": "Home Page Header Logo",
+                "name": "home_page_header_logo",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "upload the logo",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce697bee279",
+                "label": "Home Page Header Background",
+                "name": "home_page_header_background",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the image",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce69f42e211",
+                "label": "Home Page Header Contact Title",
+                "name": "home_page_header_contact_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the header contact title",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6a5e680c6",
+                "label": "home_page_header_contact_paragraph",
+                "name": "home_page_header_contact_paragraph",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the paragraph",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce850d52546",
+                "label": "Page title",
+                "name": "page_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the page title",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce87c5fc4ef",
+                "label": "ours number",
+                "name": "ours_number",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "45"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": [
+            "the_content",
+            "excerpt",
+            "discussion",
+            "comments",
+            "revisions",
+            "slug",
+            "author",
+            "format",
+            "page_attributes",
+            "featured_image",
+            "categories",
+            "tags",
+            "send-trackbacks"
+        ],
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_63ce6b5162e53",
+        "title": "Home Page",
+        "fields": [
+            {
+                "key": "field_63ce6b514c9e9",
+                "label": "thred boxes selected title the right one",
+                "name": "thred_boxes_selected_title_the_right_one",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6c1fb33ac",
+                "label": "thred boxes selected image the right one",
+                "name": "thred_boxes_selected_image_the_right_one",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the image",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce6bee0034c",
+                "label": "thred boxes selected title the center one",
+                "name": "thred_boxes_selected_title_the_center_one",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6c3e12b7e",
+                "label": "thred boxes selected image the center one",
+                "name": "thred_boxes_selected_image_the_center_one",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the image",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce6c001ffe7",
+                "label": "thred boxes selected title the left one",
+                "name": "thred_boxes_selected_title_the_left_one",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6c9986807",
+                "label": "thred boxes selected image the left one",
+                "name": "thred_boxes_selected_image_the_left_one",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the image",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce6ecd2e0fa",
+                "label": "Text Under the Selected boxes",
+                "name": "text_under_the_selected_boxes",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the paragraph",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce6fd92bc7c",
+                "label": "Image why chose us",
+                "name": "image_why_chose_us",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce70def0557",
+                "label": "background black white logo",
+                "name": "background_black_white_logo",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "upload the white logo",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce730ab2dbd",
+                "label": "black background title",
+                "name": "black_background_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title on the background",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce734ab2dbe",
+                "label": "black background paragraph",
+                "name": "black_background_paragraph",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the paragraph on the backgroun",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce74ab346bd",
+                "label": "my info Image",
+                "name": "my_info_image",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "upload the image on the info",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce74eb4f60d",
+                "label": "info area title",
+                "name": "info_area_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title on the info",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce75164f60e",
+                "label": "info area paragraph",
+                "name": "info_area_paragraph",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the paragraph",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce75ea99aba",
+                "label": "customer title area",
+                "name": "customer_title_area",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the customer title area",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce76706842c",
+                "label": "Submit Footer Area Title",
+                "name": "submit_footer_area_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Write the title on the footer area",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_63ce76996842d",
+                "label": "Submit Footer Image on the left",
+                "name": "submit_footer_image_on_the_left",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the image on above the footer",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce775bcbcc8",
+                "label": "footer Image logo",
+                "name": "footer_image_logo",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Upload the logo",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_63ce77b597bd2",
+                "label": "back To Top button Image",
+                "name": "back_to_top_button_image",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "45"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    }
+]
